@@ -1,0 +1,4 @@
+baseURL = 'https://www.353546.online/doc/'
+languageCode = 'en-us'
+title = "lull's doc"
+theme = 'ananke'
