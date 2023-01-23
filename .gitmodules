@@ -1,0 +1,6 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "doc-repo"]
+	path = content/posts/raw
+	url = git@github.com:September007/doc
