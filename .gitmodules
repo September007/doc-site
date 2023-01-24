@@ -4,3 +4,7 @@
 [submodule "doc-repo"]
 	path = content/posts/raw
 	url = git@github.com:September007/doc
+[submodule "themes/doks"]
+	path = themes/doks
+	url = https://github.com/h-enk/doks.git
+	branch = v0.4.2
