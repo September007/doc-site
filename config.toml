@@ -2,3 +2,6 @@ baseURL = 'https://www.353546.online:80/doc/'
 languageCode = 'zh-cn'
 title = "lull's doc"
 theme = 'book'
+
+[[cascade]]
+categories  = ["default cate"]

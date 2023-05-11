@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "CMakeLists.txt": "cmake",
+        "*.txt": "log",
+        "*.md": "markdown",
+        "utility": "cpp"
+    }
+}
